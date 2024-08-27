@@ -5,6 +5,7 @@ In the short term, Boba Tea AI offers its own AI agents, including LP agent, New
 
 Boba Tea AI envisions a leading AI solution to assist users in achieving higher returns and simplify participation for current Web 3 users and potential Web 2 users.
 
+
 TEAM TRACTION
 - Supported by SpringX Move Accelerator and ThreeDAO Accelerator  
 - Crypto native partnerships with Maestro, UXUY and QuestFlow
@@ -13,10 +14,13 @@ TEAM TRACTION
 - Moving towards dAPP development and testnet deployment on Aptos
 
 TEAM 
+
 Boba Tea AI's founding team comprises executives, AI and finance experts/professors, engineers, and product leaders across the crypto and Web3 space. 
 Relevant past experience include building and running an AI-powered alpha bot, token data API provider for popular trading bots and developing quantitative trading signals for some crypto social trading platforms
 
 
 LINKS
+
 Website: http://bobateaai.io/
+
 X: https://x.com/BobaTeaAI
