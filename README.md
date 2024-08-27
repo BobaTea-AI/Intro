@@ -12,7 +12,6 @@ TEAM TRACTION
 - Partnership and Investment interest from Layer 1 blockchain 
 - Moving towards dAPP development and testnet deployment on Aptos
 
-
 TEAM 
 Boba Tea AI's founding team comprises executives, AI and finance experts/professors, engineers, and product leaders across the crypto and Web3 space. 
 Relevant past experience include building and running an AI-powered alpha bot, token data API provider for popular trading bots and developing quantitative trading signals for some crypto social trading platforms
